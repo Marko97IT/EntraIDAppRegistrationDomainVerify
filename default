@@ -21,7 +21,7 @@ server {
 
 server {
   listen 443 ssl;
-  server_name marko97s-roblox-scripts.it;
+  server_name domain.com;
 
   ssl_certificate /home/ubuntu/ssl/origin.pem;
   ssl_certificate_key /home/ubuntu/ssl/private.key;
